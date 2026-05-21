@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Lauren Nyakerario
+HI I'm Lauren Nyakerario,
 
 <p align="center">
-  <b>💻 Cybersecurity | 🎨 Design | 🌐 Development | 📈 Marketing</b>
+  <P1 "I am mainly interested in"/p1>
+  <b>💻 Cybersecurity | 🎨 Design | 🌐Full stack Development | 📈 Marketing</b>
 </p>
 
 ---
